@@ -11,7 +11,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 using namespace std;
 int main()
 {
-    cout<<"Hello World"<<endl;
+    cout<<"Hello World"<<en
     int n;
     bool flag=true;
     cout<<"enter no to check if prime:";
